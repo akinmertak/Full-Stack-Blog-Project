@@ -175,6 +175,6 @@ Uygulama global durumu yönetmek için Redux Toolkit kullanır.
 
 
 ## 📱 Ekran Görüntüleri
-![Home Page](screenshots/home.png)  ![Blog Page](screenshots/blog.png)
+![Blog Page](screenshots/blog.png)      ![Home Page](screenshots/home.png)  
 Developed by [Akın Mert AK](https://github.com/akinmertak)
 
