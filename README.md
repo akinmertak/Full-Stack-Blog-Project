@@ -173,8 +173,4 @@ Uygulama global durumu yönetmek için Redux Toolkit kullanır.
 - **Tailwind CSS**, tüm stillendirme işlemlerini utility sınıfları ile halleder.
 - **Karanlık Mod**, `<html>` elementine `dark` sınıfı eklenip çıkarılarak yönetilir. Bu durum `ThemeToggle` bileşeni ile kontrol edilir ve `localStorage`'da saklanır.
 
-## 📱 Ekran Görüntüleri
-
-
-
 Developed by [Akın Mert AK](https://github.com/akinmertak)
