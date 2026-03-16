@@ -1,6 +1,6 @@
 # Modern Blog Platformu (MERN Stack)
 
-Bu proje, **MERN (MongoDB, Express.js, React/Next.js, Node.js)** yığını ile geliştirilmiş kapsamlı bir tam yığın (full-stack) blog uygulamasıdır. Karanlık/aydınlık mod desteği, kimlik doğrulama, admin paneli ve zengin metin düzenleme yeteneklerine sahip modern ve duyarlı bir arayüz sunar.
+Bu proje, **MERN (MongoDB, Express.js, React/Next.js, Node.js)** yığını ile geliştirilmiş kapsamlı bir tam yığın (full-stack) blog uygulamasıdır. kimlik doğrulama, admin paneli ve zengin metin düzenleme yeteneklerine sahip modern ve duyarlı bir arayüz sunar.
 
 ## 🌟 Temel Özellikler
 
@@ -175,9 +175,6 @@ Uygulama global durumu yönetmek için Redux Toolkit kullanır.
 
 
 ## 📱 Ekran Görüntüleri
-![Home Page](screenshots/home.png)
-![Blog Page](screenshots/blog.png)
+![Home Page](screenshots/home.png)  ![Blog Page](screenshots/blog.png)
 Developed by [Akın Mert AK](https://github.com/akinmertak)
 
-Developed by [Akın Mert AK](https://github.com/akinmertak)
-d4f28ebcd93eba2a34af52be42dc00dfde48b7c7
